@@ -1,0 +1,12 @@
+/Users/mac/hahn_software_test_technique/src/TaskManagement.Domain/obj/Debug/net9.0/TaskManagement.Domain.csproj.AssemblyReference.cache
+/Users/mac/hahn_software_test_technique/src/TaskManagement.Domain/obj/Debug/net9.0/TaskManagement.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/hahn_software_test_technique/src/TaskManagement.Domain/obj/Debug/net9.0/TaskManagement.Domain.AssemblyInfoInputs.cache
+/Users/mac/hahn_software_test_technique/src/TaskManagement.Domain/obj/Debug/net9.0/TaskManagement.Domain.AssemblyInfo.cs
+/Users/mac/hahn_software_test_technique/src/TaskManagement.Domain/obj/Debug/net9.0/TaskManagement.Domain.csproj.CoreCompileInputs.cache
+/Users/mac/hahn_software_test_technique/src/TaskManagement.Domain/bin/Debug/net9.0/TaskManagement.Domain.deps.json
+/Users/mac/hahn_software_test_technique/src/TaskManagement.Domain/bin/Debug/net9.0/TaskManagement.Domain.dll
+/Users/mac/hahn_software_test_technique/src/TaskManagement.Domain/bin/Debug/net9.0/TaskManagement.Domain.pdb
+/Users/mac/hahn_software_test_technique/src/TaskManagement.Domain/obj/Debug/net9.0/TaskManagement.Domain.dll
+/Users/mac/hahn_software_test_technique/src/TaskManagement.Domain/obj/Debug/net9.0/refint/TaskManagement.Domain.dll
+/Users/mac/hahn_software_test_technique/src/TaskManagement.Domain/obj/Debug/net9.0/TaskManagement.Domain.pdb
+/Users/mac/hahn_software_test_technique/src/TaskManagement.Domain/obj/Debug/net9.0/ref/TaskManagement.Domain.dll
