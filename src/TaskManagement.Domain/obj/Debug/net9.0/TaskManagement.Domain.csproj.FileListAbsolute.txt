@@ -10,3 +10,4 @@
 /Users/mac/hahn_software_test_technique/src/TaskManagement.Domain/obj/Debug/net9.0/refint/TaskManagement.Domain.dll
 /Users/mac/hahn_software_test_technique/src/TaskManagement.Domain/obj/Debug/net9.0/TaskManagement.Domain.pdb
 /Users/mac/hahn_software_test_technique/src/TaskManagement.Domain/obj/Debug/net9.0/ref/TaskManagement.Domain.dll
+/Users/mac/hahn_software_test_technique/src/TaskManagement.Domain/obj/Debug/net9.0/TaskManagement.Domain.sourcelink.json

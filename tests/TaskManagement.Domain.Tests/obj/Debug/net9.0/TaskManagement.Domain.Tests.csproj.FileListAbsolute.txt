@@ -116,3 +116,4 @@
 /Users/mac/hahn_software_test_technique/tests/TaskManagement.Domain.Tests/obj/Debug/net9.0/TaskManagement.Domain.Tests.pdb
 /Users/mac/hahn_software_test_technique/tests/TaskManagement.Domain.Tests/obj/Debug/net9.0/TaskManagement.Domain.Tests.genruntimeconfig.cache
 /Users/mac/hahn_software_test_technique/tests/TaskManagement.Domain.Tests/obj/Debug/net9.0/ref/TaskManagement.Domain.Tests.dll
+/Users/mac/hahn_software_test_technique/tests/TaskManagement.Domain.Tests/obj/Debug/net9.0/TaskManagement.Domain.Tests.sourcelink.json

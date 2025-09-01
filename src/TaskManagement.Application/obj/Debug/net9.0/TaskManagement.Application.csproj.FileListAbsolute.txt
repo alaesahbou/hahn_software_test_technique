@@ -13,3 +13,4 @@
 /Users/mac/hahn_software_test_technique/src/TaskManagement.Application/obj/Debug/net9.0/refint/TaskManagement.Application.dll
 /Users/mac/hahn_software_test_technique/src/TaskManagement.Application/obj/Debug/net9.0/TaskManagement.Application.pdb
 /Users/mac/hahn_software_test_technique/src/TaskManagement.Application/obj/Debug/net9.0/ref/TaskManagement.Application.dll
+/Users/mac/hahn_software_test_technique/src/TaskManagement.Application/obj/Debug/net9.0/TaskManagement.Application.sourcelink.json
